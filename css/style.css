@@ -7,6 +7,10 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
 }
 
+body{
+    background-color: #f8f8f8;
+}
+
 .logo img {
     width: 100px; /* Adjust width as needed */
 }
@@ -95,10 +99,12 @@
     color: var(--bg-color);
     padding: 10px;
     cursor: pointer;
+    color: black;
 }
 
 .add-cart:hover {
-    background: hsl(249, 32%, 17%);
+    background: darkblue;
+    border-radius: 30%;
 }
 
 .backimage{
