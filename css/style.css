@@ -257,3 +257,20 @@ textarea.form-control {
     margin-right: 5px;
 }
 
+footer {
+    background-color:orangered;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
+
+footer p {
+    margin: 0;
+    font-weight: bold;
+}
+
